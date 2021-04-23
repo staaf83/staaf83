@@ -1,7 +1,5 @@
 <h1 align="center">Hello, World!  😉</h1><br>
 
-<iframe src="https://176.139.95.57/Users-Control/" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
-
 # Contents
 * [About me](#about-me)
 
